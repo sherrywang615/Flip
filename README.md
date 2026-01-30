@@ -1,5 +1,7 @@
 # flip-csci526-2025fall
 [中文版本](./README_zh.md)
+
+Game link: https://lagrange151235.github.io/CSCI526/FinalProject/flip_v.0.10.4_with_art_preview/
 ## Magnetism Effect Implementation
 - The implementation of magnetism effect is located at `./Assets/Scripts/Magnetism.cs`
   - Enumeration Types
